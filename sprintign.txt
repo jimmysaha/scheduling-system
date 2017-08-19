@@ -1,0 +1,41 @@
+User should be able to login in as administrator and view the cohort schedule page.
+
+User should be able to create a cohort.
+
+... create a User
+Tutor
+Holiday
+Room
+Campus 
+Building
+Course
+School
+Programme
+
+
+User should be able to link course with programme
+... programme with campus
+... tutor with course
+... course with cohort
+
+
+User can view a report showing booking information of all the rooms.
+
+User can view a report showing teaching hours of a tutor for a given date range.
+
+
+
+
+
+Sprint 1 - 19th to 2nd of Sep 
+
+
+Junha - Create programme
+Donna - User
+Deng - Room
+Hun - report booking information of all the rooms.
+Xian - Create Tutor (Link Tutor with course. (Sprint 2 - course with corhor) )
+	
+
+
+8pm every weekday daily update on WeChat group
